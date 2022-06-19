@@ -1,0 +1,6 @@
+{name,"cluster_c202"}.
+{controllers,2}.
+{workers,3}.
+{cookie,"cluster_c202_cookie"}.
+{hosts,["c202"]}.
+{deployments,["calculator.depl"]}.

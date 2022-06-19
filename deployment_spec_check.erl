@@ -29,10 +29,7 @@ check([L|T])->
     true=proplists:is_defined(controllers,L),
     true=proplists:is_defined(workers,L),
     true=proplists:is_defined(cookie,L),
-    true=proplists:is_defined(application_info_specs,L),
-    true=proplists:is_defined(deployment_info_specs,L),
-    true=proplists:is_defined(host_info_specs,L),
-
+    true=proplists:is_defined(hosts,L),
     true=proplists:is_defined(deployments,L),
     check(T).
 
