@@ -1,0 +1,6 @@
+{name,"cl_test_landet"}.
+{controllers,4}.
+{workers,10}.
+{cookie,"cl_test_landet_cookie"}.
+{hosts,["c100","c200","c202"]}.
+{deployments,["calculator.depl"]}.
