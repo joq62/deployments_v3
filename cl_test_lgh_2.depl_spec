@@ -1,0 +1,6 @@
+{name,"cl_test_lgh_2"}.
+{controllers,4}.
+{workers,10}.
+{cookie,"cl_test_lgh_2_cookie"}.
+{hosts,["c100","c201"]}.
+{deployments,["calculator.depl"]}.
