@@ -2,5 +2,5 @@
 {controllers,4}.
 {workers,10}.
 {cookie,"cl_test_lgh_2_cookie"}.
-{hosts,["c100","c201"]}.
+{hosts,["c100","c201","c300"]}.
 {deployments,["calculator.depl"]}.
