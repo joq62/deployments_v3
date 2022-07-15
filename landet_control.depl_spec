@@ -3,4 +3,4 @@
 {workers,1}.
 {cookie,"cl_landet_control_cookie"}.
 {hosts,["c202"]}.
-{deployments,["landet.depl"]}.
+{deployments,["landet_control.depl"]}.
