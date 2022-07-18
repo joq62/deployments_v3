@@ -1,0 +1,6 @@
+{name,"solis"}.
+{controllers,1}.
+{workers,1}.
+{cookie,"solis_cookie"}.
+{hosts,["c202"]}.
+{deployments,["solis.depl"]}.
